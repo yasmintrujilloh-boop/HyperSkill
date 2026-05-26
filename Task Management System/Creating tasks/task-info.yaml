@@ -1,0 +1,68 @@
+type: edu
+files:
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/Application.java
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/configuracion/ConfiguracionSeguridad.java
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/modelo/Usuario.java
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/repositorio/UsuarioRepositorio.java
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/servicio/IUsuarioServicio.java
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/servicio/UsuarioServicio.java
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/controlador/UsuarioControlador.java
+    visible: true
+    learner_created: false
+  - name: test/ApplicationTests.java
+    visible: true
+    learner_created: false
+  - name: test/TestTask.java
+    visible: true
+    learner_created: false
+  - name: test/TestUser.java
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/modelo/Task.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/modelo/Estatus.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/dto/TaskRequestDto.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/dto/TaskResponseDto.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/repositorio/TaskRepositorio.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/servicio/ITaskServicio.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/servicio/TaskServicio.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/controlador/TaskControlador.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/423/stages/2460/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 20 May 2026 22:17:42 UTC"
+record: -1
