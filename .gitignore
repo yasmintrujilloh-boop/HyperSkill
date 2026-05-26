@@ -1,0 +1,34 @@
+# Gradle
+.gradle/
+build/
+gradle/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# HyperSkill
+course-info.yaml
+course-remote-info.yaml
+Task\ Management\ System/Assigning\ tasks/
+Task\ Management\ System/Authenticating\ with\ JWT/
+Task\ Management\ System/Creating\ tasks/
+Task\ Management\ System/Leaving\ comments/
+Task\ Management\ System/Registering\ users/
+Task\ Management\ System/lesson-info.yaml
+Task\ Management\ System/tms_db.mv.db
+util/
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.class
+*.jar
+*.war
+
